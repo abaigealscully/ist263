@@ -9,4 +9,18 @@ nav a {color: #774F38; background-color:#E08E79 ; padding: 10px; margin-bottom: 
 
 nav a:hover{background-color: #ECE5CE; }
 
+.quote {float: right}
 
+.clear {clear:both;}
+
+.links {float:right; flex: 1}
+
+.row1 {background-color: white;}
+
+.map {float: right; flex: 1}
+
+
+.row2 {background-color: whitesmoke;}
+
+  
+  
