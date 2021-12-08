@@ -9,7 +9,7 @@ nav a {color: #774F38; background-color:#E08E79 ; padding: 10px; margin-bottom: 
 
 nav a:hover{background-color: #ECE5CE; }
 
-.row1, .row2 {display:flex; background-color: whitesmoke;border-radius: 20px; padding: 20px; height: fit-content; WIDTH:fit-content }
+.row1, .row2 {display:flex; flex-wrap:wrap; background-color: whitesmoke;border-radius: 20px; padding: 20px; height: fit-content; WIDTH:fit-content }
 .address, .links { display: flex; flex: 1;justify-content: space-around;}
 .quote {float: right; }
 
@@ -25,4 +25,4 @@ nav a:hover{background-color: #ECE5CE; }
 .text {padding-right: 30px;padding-left: 50px}
 
 .headshot {max-width: 100%;}
-.row1{flex-wrap: wrap;}
+.row1{display:flex; flex-wrap: wrap;}
